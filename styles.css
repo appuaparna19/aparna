@@ -1,0 +1,128 @@
+.body{
+  background-color:#f0ffff;
+}
+        .first-txt {
+            position: absolute;
+            top: 200px;
+            left: 530px;
+              color: white;
+
+        }
+
+        .second-txt {
+            position: absolute;
+            bottom: 250px;
+            left: 580px;
+              color: white;
+
+
+        }
+        .third-txt{
+          position: absolute;
+          top: 800px;
+          left: 590px;
+            color: white;
+          font-family: 'American Typewriter',serif;
+          font-size: 50px;
+        }
+        .fourth-txt{
+          position: absolute;
+          top: 600px;
+          left: 400px;
+            color: white;
+          font-family: 'American Typewriter',serif;
+          font-size: 90px;
+        }
+        .fifth-txt{
+          position: absolute;
+          top: 900px;
+          padding-left: 590px;
+
+          color: #11cc9e;
+          font-family: 'Montserrat',serif;
+          font-size: 30px;
+        }
+body{
+  margin: 0;
+  text-align:center;
+  font-family:'Merriweather', serif
+
+}
+
+h1{
+
+ margin: 50px auto 0 auto;
+ font-size: 5.625rem;/*90px*/
+ font-family: "Brush Script MT", cursive;
+
+  color: #66BFBF;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: black;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+a{
+  font-family: 'Montserrat', sans-serif;
+  color:#11cc9e;
+  text-decoration: none;
+  margin: 10px 20px;
+}
+a:hover{
+  color: 	#a9a9a9;
+}
+
+
+.bottom-container{
+  font-family: Tahoma, Verdana, sans-serif;
+  background-color: #66BFBF;
+  color: white;
+  padding: 50px 0 20px;
+  line-height: 2;
+
+}
+.subj{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: thick;
+  width: 100px;
+}
+.profile{
+  width:22%;
+}
+
+.artist{
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+.skill{
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+.contact-me{
+  width: 40%;
+  line-height: 2;
+  margin: 40px auto 60px;
+  color: black;
+}
+.footer-link{
+  color: white;
+}
